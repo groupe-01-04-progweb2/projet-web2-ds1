@@ -7,6 +7,6 @@ les membres: Sarah Henia , Ghassen Drira , Fatma Baccouch , Ali El habib , Marie
 
   *ghassen drira et marem azizi sont responsables au bulltain de meteo national
 
-  *Fatama Baccouch et Ali El habib  sont en charge au tableau hebdomadaire des previsions de differented gouvernorates
+  *Fatama Baccouch et Ali El habib  sont en charge au tableau hebdomadaire des previsions de differentes gouvernorates de la republique tunisisenne
 
 lien du dossier projet (contient le fichier compressé): https://drive.google.com/drive/folders/1gTXkOHgawNMivAkHuwjJdNvQmQwc5-_g?usp=sharing
